@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConvertAllToPNG": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Work\\SOW-705\\BasePackage\\BasePackageV3.0.18.3\\Images\\Player Profiles\""
+    }
+  }
+}
